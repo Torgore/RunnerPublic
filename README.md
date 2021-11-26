@@ -7,5 +7,5 @@ Q : courrir à gauche
 SPACE : sauter 
 E : Envoyer une boule d'énergie
 
-Vous ne trouverez cependant pas d'ennemies.
+Vous ne trouverez cependant pas d'ennemis.
 
